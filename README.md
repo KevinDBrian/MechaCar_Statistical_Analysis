@@ -1,12 +1,16 @@
-# Title/Repo Name
+# MechaCar_Statistical_Analysis
 
 ## Overview
 
-## Results
+## Linear Regression to Predict MPG (D1)
+
+## Summary Statistics on Suspension Coils (D2)
+
+## T-Tests on Suspension Coils (D3)
+
+## Study Design: MechaCar vs Competition (D4)
 
 ## Summary
-
-
 
 How to add...
 
